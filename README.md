@@ -41,7 +41,7 @@ Additional helper columns were created such as:
 - Data Cleaning & Preparation
 
 # Dashboard Features 
-![img1] (https://github.com/UpadhyayPiyush/Income-Expense-Monitoring-System/blob/main/Dashboard.png)
+! [img1](https://github.com/UpadhyayPiyush/Income-Expense-Monitoring-System/blob/main/Dashboard.png)
 
 The dashboard includes:  
 
